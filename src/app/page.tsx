@@ -67,35 +67,35 @@ export default function LandingPage() {
           handle: "@localguide",
           testimonial: "Amazing place, Amazing Food, Genuine Service",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-friends-eating-restaurant_23-2150491778.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-friends-eating-restaurant_23-2150491778.jpg?_wi=1",
         },
         {
           name: "Djeneba Soro",
           handle: "@localguide",
           testimonial: "Overall, we had a good meal. The service was quick and the staff were courteous.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-eating-burger-fast-food-cheat-meal-woman-burger-restaurant_169016-67527.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-eating-burger-fast-food-cheat-meal-woman-burger-restaurant_169016-67527.jpg?_wi=1",
         },
         {
           name: "Darcy Walker",
           handle: "@localguide",
           testimonial: "The setting was lovely, the food excellent, and the staff attentive.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-man-stylish-hat-relaxing-alone-cozy-cafeteria-lunch-break-looking-with-happy-expression_273609-1935.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-man-stylish-hat-relaxing-alone-cozy-cafeteria-lunch-break-looking-with-happy-expression_273609-1935.jpg?_wi=1",
         },
         {
           name: "Patrice K.",
           handle: "@localguide",
           testimonial: "Great atmosphere for a birthday celebration. Truly memorable.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-counter_1170-668.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-counter_1170-668.jpg?_wi=1",
         },
         {
           name: "Marie L.",
           handle: "@localguide",
           testimonial: "Genuine service in a beautiful location. Definitely coming back.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-friends-having-laugh-together_23-2148395336.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-friends-having-laugh-together_23-2148395336.jpg?_wi=1",
         },
       ]}
       buttons={[
@@ -242,7 +242,7 @@ export default function LandingPage() {
           handle: "@localguide",
           testimonial: "Amazing place, Amazing Food, Genuine Service",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-friends-eating-restaurant_23-2150491778.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-friends-eating-restaurant_23-2150491778.jpg?_wi=2",
         },
         {
           id: "t2",
@@ -250,7 +250,7 @@ export default function LandingPage() {
           handle: "@localguide",
           testimonial: "Overall, we had a good meal. The service was quick and the staff were courteous.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-eating-burger-fast-food-cheat-meal-woman-burger-restaurant_169016-67527.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-eating-burger-fast-food-cheat-meal-woman-burger-restaurant_169016-67527.jpg?_wi=2",
         },
         {
           id: "t3",
@@ -258,7 +258,7 @@ export default function LandingPage() {
           handle: "@localguide",
           testimonial: "The setting was lovely, the food excellent, and the staff attentive.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-man-stylish-hat-relaxing-alone-cozy-cafeteria-lunch-break-looking-with-happy-expression_273609-1935.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-man-stylish-hat-relaxing-alone-cozy-cafeteria-lunch-break-looking-with-happy-expression_273609-1935.jpg?_wi=2",
         },
         {
           id: "t4",
@@ -266,7 +266,7 @@ export default function LandingPage() {
           handle: "@localguide",
           testimonial: "Great atmosphere for a birthday celebration. Truly memorable.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-counter_1170-668.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-counter_1170-668.jpg?_wi=2",
         },
         {
           id: "t5",
@@ -274,7 +274,7 @@ export default function LandingPage() {
           handle: "@localguide",
           testimonial: "Genuine service in a beautiful location. Definitely coming back.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-friends-having-laugh-together_23-2148395336.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-friends-having-laugh-together_23-2148395336.jpg?_wi=2",
         },
       ]}
       showRating={true}
